@@ -1,4 +1,4 @@
-package BookingManager;
+package com.mockitoCourse.BookingManager;
 
 import com.mockitoCourse.BookingManager.BookingManager;
 import com.mockitoCourse.BookingManager.HotelDao;
