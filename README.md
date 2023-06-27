@@ -24,11 +24,11 @@ Mockito helps you write clean and maintainable tests by enabling you to:
 
 ## Course Contents
 
-The "Mockito Course" covers the following topics:
+The "Mockito Course" covers the following topics with mini projects:
 
-1. Introduction to Mockito
-2. Creating Mock Objects
-3. Stubbing Methods
+1. Booking Manager: Starting with mock
+2. Player Statistics: Assertions
+3. Student calculator: Parameterized tests
 4. Verifying Method Calls
 5. Argument Matchers
 6. Mocking Exceptions
@@ -38,10 +38,6 @@ The "Mockito Course" covers the following topics:
 10. Best Practices and Tips
 
 Each topic includes practical examples in mini projects to help you reinforce your understanding of Mockito concepts.
-
-BOOKING MANAGER: Starting with mock
-PLAYER STATISTICS: Assertions
-STUDENT CALCULATOR: Parameterized tests
 
 ## Contributing
 
