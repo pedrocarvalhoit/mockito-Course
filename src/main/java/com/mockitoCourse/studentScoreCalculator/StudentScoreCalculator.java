@@ -1,5 +1,6 @@
 package com.mockitoCourse.studentScoreCalculator;
 
+//Param tests
 public class StudentScoreCalculator {
 
     private int satScore;
