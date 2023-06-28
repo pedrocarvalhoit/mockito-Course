@@ -28,8 +28,8 @@ The "Mockito Course" covers the following topics with mini projects:
 
 1. Booking Manager: Starting with mock
 2. Player Statistics: Assertions
-3. Student calculator: Parameterized tests
-4. Verifying Method Calls
+3. Student Calculator: Parameterized tests
+4. Newsletter Sender: Mocks, Stubs, Spies
 5. Argument Matchers
 6. Mocking Exceptions
 7. Spy Objects
