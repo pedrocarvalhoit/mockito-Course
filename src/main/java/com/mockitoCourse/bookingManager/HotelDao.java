@@ -1,4 +1,4 @@
-package com.mockitoCourse.BookingManager;
+package com.mockitoCourse.bookingManager;
 
 import java.sql.*;
 import java.util.ArrayList;

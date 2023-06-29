@@ -1,7 +1,5 @@
-package com.mockitoCourse.BookingManager;
+package com.mockitoCourse.bookingManager;
 
-import com.mockitoCourse.BookingManager.BookingManager;
-import com.mockitoCourse.BookingManager.HotelDao;
 import org.junit.Before;
 import org.junit.Test;
 import static org.junit.Assert.assertFalse;
