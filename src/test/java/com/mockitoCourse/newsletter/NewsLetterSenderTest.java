@@ -1,4 +1,4 @@
-package com.mockitoCourse.Newsletter;
+package com.mockitoCourse.newsletter;
 
 import org.junit.jupiter.api.Test;
 
