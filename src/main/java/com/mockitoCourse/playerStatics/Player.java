@@ -1,4 +1,4 @@
-package com.mockitoCourse.PlayerStatics;
+package com.mockitoCourse.playerStatics;
 
 //Different Assertions
 public class Player {

@@ -1,4 +1,4 @@
-package com.mockitoCourse.PlayerStatics;
+package com.mockitoCourse.playerStatics;
 
 
 public class PlayerStatistics {
