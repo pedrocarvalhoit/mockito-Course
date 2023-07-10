@@ -28,14 +28,17 @@ The "Mockito Course" covers the following topics with mini projects:
 
 1. Booking Manager: Starting with mock
 2. Player Statistics: Assertions
-3. Student Calculator: Parameterized tests
-4. Newsletter Sender: Mocks, Stubs, Spies
-5. Argument Matchers
-6. Mocking Exceptions
-7. Spy Objects
-8. Mocking Static Methods
-9. Advanced Mockito Features
-10. Best Practices and Tips
+3. Goal Statistics: Stub Multiple Calls
+4. Student Calculator: Parameterized tests
+5. Newsletter Sender: Mocks, Stubs, Spies
+6. Entity Manager: Entity manager test
+7. Cashier: Testing exceptions
+8. Zoo: Modify default mock behaviour
+9. Chess: Stub void methods
+10. CarShop: Then Return vs Do Return
+11. Book manager: Mockito Answer
+12. Booking Service: Various Argument Matchers
+13. Train barrier: Mockito BDD
 
 Each topic includes practical examples in mini projects to help you reinforce your understanding of Mockito concepts.
 
