@@ -7,8 +7,9 @@ import static org.junit.jupiter.api.Assertions.*;
 class PlayerStatisticsTest {
 
     @Test
-    public void playerNamesEqual(){
+    public void playerNamesEqual() throws InterruptedException {
         Player p1 = new Player("Pedro Carvalho", 30);
+        Thread.sleep(200);
         Player p2 = new Player("Pedro Carvalho", 26);
         //EQUALS just check de Name
         assertEquals(p1, p2);
