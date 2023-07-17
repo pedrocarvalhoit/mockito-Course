@@ -31,14 +31,20 @@ The "Mockito Course" covers the following topics with mini projects:
 3. Goal Statistics: Stub Multiple Calls
 4. Student Calculator: Parameterized tests
 5. Newsletter Sender: Mocks, Stubs, Spies
-6. Entity Manager: Entity manager test
-7. Cashier: Testing exceptions
-8. Zoo: Modify default mock behaviour
-9. Chess: Stub void methods
-10. CarShop: Then Return vs Do Return
-11. Book manager: Mockito Answer
-12. Booking Service: Various Argument Matchers
-13. Train barrier: Mockito BDD
+6. Food Order: Inject mocks
+7. Chess: Stub void methods
+8. Entity Manager: Entity manager test
+9. Cashier: Testing exceptions
+10. Race Performance: Catch Exception Library
+11. Zoo: Modify default mock behaviour
+12. CarShop: Then Return vs Do Return
+13. Book manager: Mockito answer
+14. Booking Service: Various argument matchers
+15. Train barrier: Mockito BDD
+16. Grade Calculator: Test private method
+17. Restaurant Service: Argument captor
+18. List Transformer: AssertJ
+19. Csv Line Counter: Rule anotation
 
 Each topic includes practical examples in mini projects to help you reinforce your understanding of Mockito concepts.
 
